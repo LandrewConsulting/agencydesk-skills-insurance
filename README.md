@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="./assets/agencydesk-mark.svg" alt="AgencyDesk Skills" width="72" height="72" />
+<p align="center">
+  <img src="https://geeduzbsatvodnlijqfs.supabase.co/storage/v1/object/public/product-media/c059e319-ea19-4aff-9b6c-39797f90a2b4/bcb6a6e6-d588-43d4-81c8-4e4f93a2187b/logo-1795644304236-0.webp" alt="AgencyDesk Insurance" width="180" height="180" />
 </p>
 
 # AgencyDesk Skills — Insurance (Free Sample)
