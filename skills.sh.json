@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "AgencyDesk Skills — Insurance (free sample)",
+      "description": "Clerical P&C insurance document comparison skill from AgencyDesk Skills by L&M Consulting. Drafts only; requires licensed-agent review.",
+      "skills": [
+        "coi-contract-check"
+      ]
+    }
+  ]
+}
