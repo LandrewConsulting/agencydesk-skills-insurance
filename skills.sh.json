@@ -4,7 +4,7 @@
   "groupings": [
     {
       "title": "AgencyDesk Skills — Insurance (free sample)",
-      "description": "Clerical P&C insurance document comparison skill from AgencyDesk Skills by L&M Consulting. Drafts only; requires licensed-agent review.",
+      "description": "Clerical certificate of insurance (COI) comparison skill for insurance agencies from AgencyDesk Skills by L&M Consulting. Drafts only; requires licensed-agent review.",
       "skills": [
         "coi-contract-check"
       ]

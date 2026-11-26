@@ -1,6 +1,6 @@
 ---
 name: coi-contract-check
-description: Compares a certificate of insurance (COI) to contract requirements and lists documented matches, differences, and items needing verification. Clerical draft only; requires licensed-agent review.
+description: Compares a certificate of insurance (COI) to contract requirements for insurance agencies and lists matches, differences, and verification items. Clerical draft only; requires licensed-agent review.
 license: MIT
 metadata:
   author: "L&M Consulting Inc."

@@ -4,12 +4,14 @@
 
 # AgencyDesk Skills — Insurance (Free Sample)
 
-[![skills.sh](https://skills.sh/b/LandrewConsulting/agencydesk-skills)](https://skills.sh/LandrewConsulting/agencydesk-skills)
+[![skills.sh](https://skills.sh/b/LandrewConsulting/agencydesk-skills-insurance)](https://skills.sh/LandrewConsulting/agencydesk-skills-insurance)
 [![Get the full Insurance pack](https://img.shields.io/badge/AgencyDesk_Skills-Get_the_full_Insurance_pack-28aaaa)](https://landmconsultinginc.com/ai-skills/)
 [![Agensi Listing](https://img.shields.io/badge/Agensi-COI_Contract_Check-0c182c)](https://agensi.io/skills/coi-contract-check)
 [![License: MIT](https://img.shields.io/badge/License-MIT-e8a83c)](./LICENSE)
 
-Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.). This repository hosts a single free sample from the 11-skill AgencyDesk Insurance pack: **`coi-contract-check` (COI Contract Check)**.
+Clerical AI agent skills by **AgencyDesk Skills** (L&M Consulting Inc.) for insurance agencies. This repository hosts a single free sample from the 11-skill AgencyDesk Insurance pack: **`coi-contract-check` (COI Contract Check)**.
+
+Use it when an agency needs a clerical side-by-side comparison of a certificate of insurance (COI), such as an ACORD 25, against the insurance requirements in a contract, lease, or agreement, including additional insured wording. Outputs are drafts only and do not state coverage, compliance, or underwriting conclusions.
 
 Skills follow the open [Agent Skills](https://agentskills.io/) specification.
 
@@ -29,13 +31,13 @@ Compares a certificate of insurance (ACORD 25 or equivalent) against contract, l
 Install with the [skills CLI](https://skills.sh/docs/cli):
 
 ```bash
-npx skills add LandrewConsulting/agencydesk-skills
+npx skills add LandrewConsulting/agencydesk-skills-insurance
 ```
 
 Or target a specific agent (for example Claude Code or Cursor):
 
 ```bash
-npx skills add LandrewConsulting/agencydesk-skills --skill coi-contract-check -a claude-code
+npx skills add LandrewConsulting/agencydesk-skills-insurance --skill coi-contract-check -a claude-code
 ```
 
 > [!TIP]
@@ -85,8 +87,14 @@ This repository is licensed under the [MIT License](./LICENSE). Skills are provi
 
 ---
 
-### More AgencyDesk Skills
+### More AgencyDesk free samples
 
-Looking for the full 11-skill Insurance pack or more skills for small businesses and industries? Explore all packs at **[landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/)**.
+| Vertical | Free sample | GitHub repo | skills.sh listing |
+|---|---|---|---|
+| Insurance | COI Contract Check | [agencydesk-skills-insurance](https://github.com/LandrewConsulting/agencydesk-skills-insurance) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-insurance) |
+| Construction | Bid Leveling Scope Gap | [agencydesk-skills-construction](https://github.com/LandrewConsulting/agencydesk-skills-construction) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-construction) |
+| Property Management | Lease Abstract | [agencydesk-skills-property-management](https://github.com/LandrewConsulting/agencydesk-skills-property-management) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-property-management) |
+| Title & Escrow | Closing Disclosure Settlement Comparison | [agencydesk-skills-title-escrow](https://github.com/LandrewConsulting/agencydesk-skills-title-escrow) | [skills.sh listing](https://skills.sh/LandrewConsulting/agencydesk-skills-title-escrow) |
+| All AgencyDesk packs | Full skill store | [landmconsultinginc.com/ai-skills](https://landmconsultinginc.com/ai-skills/) | [AgencyDesk Skills Store](https://landmconsultinginc.com/ai-skills/) |
 
 Published by L&M Consulting.
