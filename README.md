@@ -105,6 +105,10 @@ skills/
 - **AgencyDesk Skills Store (full 11-skill Insurance pack & more):** [https://landmconsultinginc.com/ai-skills/](https://landmconsultinginc.com/ai-skills/)
 - **Agensi Listing (`COI Contract Check`):** [https://agensi.io/skills/coi-contract-check](https://agensi.io/skills/coi-contract-check)
 
+## Support
+
+Issues are turned off for this repository. To report a bug or ask a question, email support@landmconsultinginc.com.
+
 ## License
 
 This repository is licensed under the [MIT License](./LICENSE). Skills are provided "as is" without warranty; outputs are clerical drafts only and require review by a licensed insurance agent before reliance or external use.
